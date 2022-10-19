@@ -8,3 +8,6 @@ before_install:
 
 script:
   - docker run -e CI=true yasar/docker-react npm run test
+
+
+## This is only garbage
